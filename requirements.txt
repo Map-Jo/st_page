@@ -5,4 +5,4 @@ finance-datareader
 plotly
 seaborn
 matplotlib
-cufflinks
+
